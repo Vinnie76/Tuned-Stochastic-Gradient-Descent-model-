@@ -1,1 +1,1 @@
-# Tuned-Stochastic-Gradient-Descent-model-
+# Tuned-Stochastic-Gradient-Descent-model

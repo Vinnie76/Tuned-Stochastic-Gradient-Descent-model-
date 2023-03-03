@@ -54,3 +54,6 @@ Check the RMSE based on the values your model predicted and the actual values fr
 ### 5. Compare Models 
 
 Compare the results from the Stochastic Gradient Descent model with the results from the Random Forest model.  
+
+# Author
+** Vincent Kipkorir**

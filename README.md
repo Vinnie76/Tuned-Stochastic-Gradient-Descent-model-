@@ -1,9 +1,9 @@
 # Tuned-Stochastic-Gradient-Descent-model
 ## Description
 The repository hosts the tuned Stochastic Gradient Descent model and its comparison with the Random Forest model. 
-1. Data Preparation 
+### 1. Data Preparation 
 
-1.1 Read Data 
+#### 1.1 Read Data 
 
 To train the model, you must first load the entire data. 
 
